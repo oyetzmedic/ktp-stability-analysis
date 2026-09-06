@@ -1,4 +1,5 @@
 # KTP Stability Analysis
+[![Notebook checks](https://github.com/oyetzmedic/ktp-stability-analysis/actions/workflows/notebooks.yml/badge.svg)](https://github.com/oyetzmedic/ktp-stability-analysis/actions/workflows/notebooks.yml)
 
 This repository contains a concise pre-interview data analysis submission for a KTP Associate exercise based on accelerated pharmaceutical stability testing. The analysis compares two prototype formulations, explores degradation behaviour under temperature, humidity and time stress, and uses simple modelling to support a transparent development recommendation.
 
