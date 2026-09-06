@@ -30,6 +30,7 @@ jobs:
             jupyter nbconvert \
               --to notebook \
               --execute "$notebook" \
+              --ExecutePreprocessor.kernel_name=python3 \
               --ExecutePreprocessor.timeout=300 \
               --output-dir=/tmp/executed
           done
